@@ -1,0 +1,23 @@
+# estructura for: 
+# imprimir un triangulo de asteriscos de la sig forma puede ser de n filas(a criterio):
+imprimir("#1")
+para i en un rango (  1 ,8 ):
+print ("*" * i)
+print(         )
+
+imprimir("#2") 
+ para i en un rango  (8 , 0 , -1 ):
+ print ("*" * i)
+ print(       )
+ 
+ imprimir ("#3")
+ para i en un rango (1,8):
+ print ("*" *  i)
+ para i en un rango de (8 ,0 , -1):
+ print("*" * i)
+ print (    )
+
+imprimir ( "# 4" )
+para i en un rango de (1 ,8 ):
+    imprimir ( "*" * 8 )
+    print (     )
