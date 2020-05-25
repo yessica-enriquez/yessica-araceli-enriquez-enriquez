@@ -6,8 +6,9 @@ suma = (num1+num2)
 
 print("la suma de los nuemros es: ",suma)
 
+
 print("Problema #2")
-numero = int(input("¿Cuantos valores va a introducir))
+numero = int(input("¿Cuántos valores va a introducir? "))
 if numero <= 0:
         print("¡Imposible!")
 else:
